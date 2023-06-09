@@ -14,3 +14,5 @@ A Streamlit Fecth.ai Dapp
 Enjoy !!
 
 I am gonna upgrade the dapp by "Agents and Data Science" after after overcoming the package incompatibilities problems (between strelit and fetchai (cosmpy))
+
+#dapp #blockchain #fet #ai #data #wallet
