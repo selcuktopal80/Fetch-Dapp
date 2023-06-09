@@ -15,7 +15,7 @@ A Dapp that aims to teach how to communicate with the fetch network with Streaml
 
 Enjoy !!
 
-I am gonna upgrade the dapp by "Agents and Data Science" after after overcoming the package incompatibilities problems (between strelit and fetchai (cosmpy))
+I am gonna upgrade the dapp by "Agents and Data Science" after overcoming the package incompatibilities problems (between strelit and fetchai (cosmpy))
 
 #dapp #blockchain #fet #ai #data #wallet
 
