@@ -7,7 +7,7 @@ A Dapp that aims to teach how to communicate with the fetch network with Streaml
 
 2) Activate env "/env/Scripts/Activate.ps1"
 
-3) pip install streamlit, cosmpy, PIL P.S: !! if need more modules, check imports in fetDapp.py !!
+3) pip install streamlit, cosmpy, PIL P.S: !! if need more modules, check imports in fetchDapp.py !!
 
 4) on the terminal streamlit run fetDapp.py
 
